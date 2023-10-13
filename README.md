@@ -1,3 +1,5 @@
+Fork replaces the old visualization script with very depricated dependencies with a python frontend.
+
 3d-bin-pack
 ===========
 
